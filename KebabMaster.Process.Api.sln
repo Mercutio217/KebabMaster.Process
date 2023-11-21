@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KebabMaster.Process.Api", "KebabMaster.Process.Api\KebabMaster.Process.Api.csproj", "{6564AE26-ED18-465D-B671-323E4EFFE9B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KebabMaster.Process.Infrastructure", "KebabMaster.Process.Infrastructure\KebabMaster.Process.Infrastructure.csproj", "{6FA18921-AC92-4809-9C8D-40D293957C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KebabMaster.Process.Domain", "KebabMaster.Process.Domain\KebabMaster.Process.Domain.csproj", "{2D54A4D8-6E3E-4A19-8454-8F31D24DA3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6564AE26-ED18-465D-B671-323E4EFFE9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6564AE26-ED18-465D-B671-323E4EFFE9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6564AE26-ED18-465D-B671-323E4EFFE9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6564AE26-ED18-465D-B671-323E4EFFE9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA18921-AC92-4809-9C8D-40D293957C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA18921-AC92-4809-9C8D-40D293957C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA18921-AC92-4809-9C8D-40D293957C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA18921-AC92-4809-9C8D-40D293957C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D54A4D8-6E3E-4A19-8454-8F31D24DA3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D54A4D8-6E3E-4A19-8454-8F31D24DA3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D54A4D8-6E3E-4A19-8454-8F31D24DA3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D54A4D8-6E3E-4A19-8454-8F31D24DA3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
